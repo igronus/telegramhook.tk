@@ -8,9 +8,9 @@ Here is ready to use vue.js project allowing user-friendly set telegram bots web
 
 ### Usage
 
-Use the demo or just clone this repo and open bot.html file.
+Use the demo or just clone this repo and open index.html file.
 
-(If you need https.) Charles Okwuagwu:
+(If you need https with pem certificate.) Charles Okwuagwu:
 
 ```
 I created a file on my server for conveniently setting up telegram webhooks.
