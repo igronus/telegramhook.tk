@@ -1,19 +1,23 @@
 
-## telegram.tk :: Set Telegram Webhooks 
+## telegramhook.tk :: Set Telegram Webhooks 
 
-Here is ready to use vue.js project. Taken from Charles Okwuagwu's answer at [Stack Overflow](https://stackoverflow.com/questions/42554548/how-to-set-telegram-bot-webhook) and a bit improved.
+Here is ready to use vue.js project allowing user-friendly set telegram bots webhooks. Taken from Charles Okwuagwu's answer at [Stack Overflow](https://stackoverflow.com/questions/42554548/how-to-set-telegram-bot-webhook) and a bit improved.
 
 ![screenshot](https://raw.githubusercontent.com/igronus/telegramhook.tk/master/screenshot.png)
 
 
 ### Usage
 
+Use the demo or just clone this repo and open bot.html file.
+
+(If you need https.) Charles Okwuagwu:
+
 ```
 I created a file on my server for conveniently setting up telegram webhooks.
 
 You can use the same file on your server.
 
-(If you need https.) This should be on the same server from which you wish to run the Telegram Bot.
+This should be on the same server from which you wish to run the Telegram Bot.
 
 1. Drop this file on the same server you wish to host you bots
 
