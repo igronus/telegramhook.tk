@@ -3,7 +3,8 @@
 
 Here is ready to use vue.js project. Taken from Charles Okwuagwu's answer at [Stack Overflow](https://stackoverflow.com/questions/42554548/how-to-set-telegram-bot-webhook) and a bit improved.
 
-[[https://github.com/igronus/telegramhook.tk/blob/master/screenshot.png|alt=screenshot]]
+![screenshot](https://raw.githubusercontent.com/igronus/telegramhook.tk/master/screenshot.png)
+
 
 ### Usage
 
